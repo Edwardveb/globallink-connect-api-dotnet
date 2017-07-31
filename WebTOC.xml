@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="880f7fb6-4594-4f76-866a-245136ae9b42" Title="GlobalLink.Connect" Url="html/02a90956-4fa0-75eb-a45d-bdd89a28e94c.htm">
+    <HelpTOCNode Id="8e946c1d-ced2-4e26-bef8-36bb93c4f147" Title="GLExchange Class" Url="html/5974b8d6-de46-7f2a-f9d9-e24f8ea9e4a8.htm">
+      <HelpTOCNode Title="GLExchange Constructor " Url="html/d40b9a5c-0753-cc36-91ae-ac5650899a33.htm" />
+      <HelpTOCNode Id="911a996a-edac-4868-9792-42125dcb3cfc" Title="GLExchange Methods" Url="html/f0bb9c74-363c-d7f2-573b-20456c011411.htm">
+        <HelpTOCNode Id="cf8fb600-54ab-4bd9-acd9-b17d225a46ac" Title="cancelDocument Method " Url="html/6b823dd1-f41f-854a-e3c6-bff5669ac9a0.htm">
+          <HelpTOCNode Title="cancelDocument Method (String)" Url="html/2d1ab90a-5d7d-6a1a-9026-a8f9938c1324.htm" />
+          <HelpTOCNode Title="cancelDocument Method (String, String)" Url="html/725af563-c504-301b-dabb-9c125c0b2bbf.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6d782276-ef57-46e0-b69e-01842dbfd2bf" Title="cancelSubmission Method " Url="html/c7118f54-1c17-f27d-3332-7ea1088df014.htm">
+          <HelpTOCNode Title="cancelSubmission Method (String)" Url="html/2dc79743-6535-c69e-2bab-6a5e76353bd2.htm" />
+          <HelpTOCNode Title="cancelSubmission Method (String, String)" Url="html/16132946-3c8d-50ca-3b3b-194fcadfd45f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c0794406-0494-4a8f-8ce4-3402031d73a2" Title="downloadCompletedTarget Method " Url="html/dbc4a92c-3dd1-e88c-217f-e1e092f9aa91.htm">
+          <HelpTOCNode Title="downloadCompletedTarget Method (String)" Url="html/ad1d6dec-c95c-10b5-e0a3-35617b74afac.htm" />
+          <HelpTOCNode Title="downloadCompletedTarget Method (Target)" Url="html/8e8b2e51-878b-0697-fe57-3af4339abd8d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="getAvailableLanguageDirections Method " Url="html/e5c2746a-64d5-3343-1a27-b866a15b6f14.htm" />
+        <HelpTOCNode Title="getAvailableTargetLocales Method " Url="html/1bfc5b48-075c-e68c-6c92-75c248987c02.htm" />
+        <HelpTOCNode Id="0350cd5e-9a30-4fcb-a878-3467bca480ab" Title="getCancelledTargets Method " Url="html/e6f4a888-7977-e05a-75d2-4a3a6f56505b.htm">
+          <HelpTOCNode Title="getCancelledTargets Method (Int32)" Url="html/29bf7ffb-1916-c056-1842-5b135046b84f.htm" />
+          <HelpTOCNode Title="getCancelledTargets Method (String, Int32)" Url="html/e03581bb-a1c5-5d5c-087d-9d71222c2162.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="getCancelledTargetsByDocuments Method " Url="html/fe6a4d48-19bc-b1c8-0d35-a56d71e7203e.htm" />
+        <HelpTOCNode Title="getCancelledTargetsByProjects Method " Url="html/c7200de0-f97b-d3e7-9490-81e719b725b6.htm" />
+        <HelpTOCNode Title="getCancelledTargetsBySubmissions Method " Url="html/1d4905f6-a1fa-c555-d90d-8afb269dafe5.htm" />
+        <HelpTOCNode Id="9bf3fa63-9bc4-4655-8706-09a23478c6d0" Title="getCompletedTargets Method " Url="html/b99a3916-2a75-e228-06e1-35fbe4b07154.htm">
+          <HelpTOCNode Title="getCompletedTargets Method (Int32)" Url="html/1a7b2e56-a0b7-3971-a6bf-0dc4074744d8.htm" />
+          <HelpTOCNode Title="getCompletedTargets Method (String, Int32)" Url="html/fdfd4850-93f7-fdc7-2686-addc18bf682b.htm" />
+          <HelpTOCNode Title="getCompletedTargets Method (Project, Int32)" Url="html/5ba92eca-b844-db03-25b1-90fcec8cb19a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="getCompletedTargetsByDocument Method " Url="html/43fbf347-aeb7-4384-e66a-46190bf92d3d.htm" />
+        <HelpTOCNode Title="getCompletedTargetsByDocuments Method " Url="html/34333cb0-1e9d-eb6e-5356-7fed8e45085e.htm" />
+        <HelpTOCNode Title="getCompletedTargetsByProjects Method " Url="html/48c13477-eee4-7149-774e-39fd1138e7e8.htm" />
+        <HelpTOCNode Title="getCompletedTargetsBySubmissions Method " Url="html/51f62aec-ec59-6693-37f6-60d1183c6fc1.htm" />
+        <HelpTOCNode Title="getLanguagePhaseInfo Method " Url="html/5b2472a0-6451-c121-77a7-02d976f30c43.htm" />
+        <HelpTOCNode Title="getProject Method " Url="html/863ab768-54ff-b0e7-5c3b-f99703a52c7f.htm" />
+        <HelpTOCNode Title="getProjects Method " Url="html/de6bfd1f-d652-ac9c-90d0-8396d648fb0c.htm" />
+        <HelpTOCNode Title="getSubmissionBatches Method " Url="html/5ae6cffa-a06e-6b92-db5c-34c26383bb0c.htm" />
+        <HelpTOCNode Title="getSubmissionId Method " Url="html/be657b5a-2704-e359-c32c-3c48b0a6cd2e.htm" />
+        <HelpTOCNode Title="getSubmissionName Method " Url="html/8a1dcb94-c9ed-8740-1da9-25d1def36f74.htm" />
+        <HelpTOCNode Title="getSubmissionStatus Method " Url="html/945e4ab1-0b53-64ee-9e25-d7c893b3da9d.htm" />
+        <HelpTOCNode Title="getSubmissionStatusEnum Method " Url="html/8a60106b-ccdd-e4e0-1265-f1168e243495.htm" />
+        <HelpTOCNode Title="getSubmissionTickets Method " Url="html/c5f7fe9d-d37c-5157-2136-fc4544029f1d.htm" />
+        <HelpTOCNode Title="getUnstartedSubmissions Method " Url="html/d031b9d2-12b3-9e45-f2f8-4fd743eeaaa0.htm" />
+        <HelpTOCNode Title="initSubmission Method " Url="html/45324369-2945-8c4f-b93c-2d8db9a5ee03.htm" />
+        <HelpTOCNode Title="isSubmissionComplete Method " Url="html/d3cc83ad-6012-608b-3d8a-ee05e28dd77a.htm" />
+        <HelpTOCNode Title="sendDownloadConfirmation Method " Url="html/62801d2f-e66f-4fcc-a548-221369a2e9ec.htm" />
+        <HelpTOCNode Title="setConnectionConfig Method " Url="html/c0a885ca-ff86-cc38-15f8-9b86968268f5.htm" />
+        <HelpTOCNode Title="startSubmission Method " Url="html/8a061b0f-54ea-d9ae-bb5e-6ff9e925cdb7.htm" />
+        <HelpTOCNode Title="uploadReference Method " Url="html/ce9b7d1a-9162-1b80-1cc4-378113c5c6bc.htm" />
+        <HelpTOCNode Title="uploadTranslatable Method " Url="html/fa5ad100-b12d-629a-2266-c43bd6530d33.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="eaef2594-8f8a-4eda-b1e1-35afead251bc" Title="GlobalLink.Connect.Config" Url="html/265e963e-d474-7676-c7c9-f17f7772bb17.htm">
+    <HelpTOCNode Id="ba23c7e6-c933-40c5-899f-33ee01be06c4" Title="ProjectDirectorConfig Class" Url="html/e8d23f1d-b779-d43c-72ce-e92d305c8c2d.htm">
+      <HelpTOCNode Title="ProjectDirectorConfig Constructor " Url="html/da98ad74-4e0f-9db8-5502-b2e1ba44dc5b.htm" />
+      <HelpTOCNode Id="c008d58c-3e7e-441f-80ed-81f0084a37e5" Title="ProjectDirectorConfig Properties" Url="html/d4b6d6e5-bd5b-aa4f-15ee-5d43c471ad38.htm">
+        <HelpTOCNode Title="password Property " Url="html/5720d3dd-a18a-ccf5-8677-ccc24f19863b.htm" />
+        <HelpTOCNode Title="proxy Property " Url="html/75003dfc-f85b-d8b2-c23b-f49dbb8d598d.htm" />
+        <HelpTOCNode Title="timeOut Property " Url="html/04e080c4-27b4-4882-a2da-8398aa958d37.htm" />
+        <HelpTOCNode Title="url Property " Url="html/bc88f29e-06ce-1056-6b1b-79f3ac43242c.htm" />
+        <HelpTOCNode Title="userAgent Property " Url="html/c6aac73b-bdfe-24f2-365d-e98d56793bf2.htm" />
+        <HelpTOCNode Title="username Property " Url="html/69fd1a6f-a468-16b0-e4e2-8b3acc78ff08.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9e3d5b79-f73e-4b96-8327-4054fdfaf61d" Title="ProxyConfig Class" Url="html/a139fdbc-2cf8-0042-79da-8a6adbc68bbc.htm">
+      <HelpTOCNode Title="ProxyConfig Constructor " Url="html/5e51f831-13bc-98e5-6bac-af093920d2fe.htm" />
+      <HelpTOCNode Id="4236aa76-f686-43eb-8a81-de7362157ca0" Title="ProxyConfig Properties" Url="html/53322b6a-bddd-66d0-c8e8-d886104eaf86.htm">
+        <HelpTOCNode Title="proxyHost Property " Url="html/e49cd6ac-9a3a-38c0-8094-3d07fcec0e7f.htm" />
+        <HelpTOCNode Title="proxyPassword Property " Url="html/129c2ec4-d044-8f90-3114-2522a03bb7e9.htm" />
+        <HelpTOCNode Title="proxyPort Property " Url="html/76d78d2d-d8ed-4467-f84e-7164ad73f917.htm" />
+        <HelpTOCNode Title="proxyUser Property " Url="html/2e8145ef-d040-2765-a9fd-d8f4888d6b58.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a1ef9fa3-b128-4bad-aa0a-586d4721bfd4" Title="GlobalLink.Connect.Model" Url="html/854d50a5-8b2f-7e80-8e69-56817d746425.htm">
+    <HelpTOCNode Id="772783ae-a7a7-4ecf-9f79-7bfcb316b2c0" Title="Batch Class" Url="html/f2ed30f8-fee0-a989-358d-2d7862244ce3.htm">
+      <HelpTOCNode Title="Batch Constructor " Url="html/05208c88-3816-a120-3479-aa003b549b5c.htm" />
+      <HelpTOCNode Id="b17261f2-5f1d-4720-97e7-c4c12b2bec16" Title="Batch Fields" Url="html/f3bcc563-0933-9d7b-4e14-ef1553497f27.htm">
+        <HelpTOCNode Title="targetLanguages Field" Url="html/b426b640-6cc8-dcca-d54f-f8f90269f2e0.htm" />
+        <HelpTOCNode Title="workflow Field" Url="html/807532be-127b-9a72-3f40-bfa1e0f8b799.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5c5dab0a-8c4a-4d30-a09b-2368c384a75c" Title="Batch Properties" Url="html/1d4bbaa4-4e15-139e-e428-41cc82351a6f.htm">
+        <HelpTOCNode Title="name Property " Url="html/a08dcfee-942d-c992-6298-1f71ea4cf673.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4e119776-8b5f-4e25-923e-15faf2d61d5d" Title="CustomAttribute Class" Url="html/b8295f49-089d-b167-ae12-30f4ecfa91c2.htm">
+      <HelpTOCNode Id="0a88aef1-e718-45ca-8b38-05498f67b354" Title="CustomAttribute Constructor " Url="html/01563a66-7654-e0d9-6c6a-70ce79d2a0b4.htm">
+        <HelpTOCNode Title="CustomAttribute Constructor (ProjectCustomFieldConfiguration)" Url="html/1cae266a-0710-f7ea-40f1-a63cbb997d3d.htm" />
+        <HelpTOCNode Title="CustomAttribute Constructor (Boolean, String, String, String)" Url="html/8ad13466-8190-104c-3787-e9479336c5c8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="87a2599f-8f12-4e4a-a5a5-8cc7a148681b" Title="CustomAttribute Properties" Url="html/239641fa-8795-eb06-cf95-52b94f1d105e.htm">
+        <HelpTOCNode Title="mandatory Property " Url="html/da1fcd8e-e265-a805-4840-a3f4e17d0523.htm" />
+        <HelpTOCNode Title="name Property " Url="html/785b4cce-c8b9-49aa-fbd4-f5a1079b8eb3.htm" />
+        <HelpTOCNode Title="type Property " Url="html/903450c8-ea69-23b5-8aeb-5cf4cfa8920e.htm" />
+        <HelpTOCNode Title="values Property " Url="html/32b29aa5-8a39-baf9-cc81-f9f0efadd0df.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4c9b10a4-63b0-4607-920f-7c96ad8d3453" Title="Document Class" Url="html/3e76e929-c3d2-2450-c36b-df1cd9212e9b.htm">
+      <HelpTOCNode Title="Document Constructor " Url="html/304c4670-8a4f-dff5-1e71-880bc59e3412.htm" />
+      <HelpTOCNode Id="c089d2c2-6f40-48ec-804b-782ff7ca8f15" Title="Document Methods" Url="html/6651eac5-02f2-9954-555c-87da4623bfec.htm">
+        <HelpTOCNode Title="getDocumentInfo Method " Url="html/d7576866-a4ca-486e-517d-31ca8c02e416.htm" />
+        <HelpTOCNode Title="getResourceInfo Method " Url="html/9a2cc8a2-7543-5f66-f7a1-c211fba1fc2d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6b1e3a78-b29e-4120-8207-a648a7786c47" Title="Document Properties" Url="html/ead38bc0-9b09-0781-47e3-33358a96bfdb.htm">
+        <HelpTOCNode Title="clientIdentifier Property " Url="html/e1ed9d3e-1bf5-8b84-fa01-65e6da081cda.htm" />
+        <HelpTOCNode Title="encoding Property " Url="html/a2a40825-7e5b-5ae0-6784-9f88d5401e03.htm" />
+        <HelpTOCNode Title="fileformat Property " Url="html/401e275b-952b-d47b-8574-ed3def99acf3.htm" />
+        <HelpTOCNode Title="instructions Property " Url="html/d58a5371-585f-360c-f12d-baf26046d057.htm" />
+        <HelpTOCNode Title="metadata Property " Url="html/fa90939f-ab7f-e386-a89b-38ca70c7b215.htm" />
+        <HelpTOCNode Title="sourceLanguage Property " Url="html/73a77a24-9f0a-109d-7e8b-14c0f00f2477.htm" />
+        <HelpTOCNode Title="targetLanguages Property " Url="html/5434c334-8cb9-bd59-466c-e609bed45198.htm" />
+        <HelpTOCNode Title="targetWorkflowNames Property " Url="html/9fd9c121-12df-3f1d-663a-1ba3bf7c3688.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d79d34bc-42b6-47f1-a3b7-69ce03ff8d2b" Title="ItemStatusEnum Class" Url="html/9683bde5-24eb-690f-a52b-44c2fa2c3ae4.htm">
+      <HelpTOCNode Title="ItemStatusEnum Constructor " Url="html/ea24e8ee-a329-5ac5-9200-d3828818a70c.htm" />
+      <HelpTOCNode Id="8bea6e8e-31d1-4028-bd25-cd3521f795b8" Title="ItemStatusEnum Fields" Url="html/3e181168-d878-4f90-122e-54c202e20b0c.htm">
+        <HelpTOCNode Title="ARCHIVED Field" Url="html/a53434e9-3959-ebff-7dbf-353e1e608eea.htm" />
+        <HelpTOCNode Title="CANCELLED Field" Url="html/0ceb7dc4-ec5e-4506-1012-4b9ded38e8f8.htm" />
+        <HelpTOCNode Title="COMPLETED Field" Url="html/f44d3fab-0de9-da7f-4930-0d492f155aca.htm" />
+        <HelpTOCNode Title="CREATING Field" Url="html/411f40ff-5cdb-ea97-4d28-a07ac3901b2d.htm" />
+        <HelpTOCNode Title="DELIVERED Field" Url="html/e96f7f9c-b3dc-54ce-439e-767a8c73aeea.htm" />
+        <HelpTOCNode Title="DOWNLOADED Field" Url="html/2624b4d4-2bf7-1526-6274-ad80ec89f807.htm" />
+        <HelpTOCNode Title="FAILED Field" Url="html/811bf698-96e6-b28d-1790-930b6518d8e9.htm" />
+        <HelpTOCNode Title="IN_PROCESS Field" Url="html/3826d1c5-1c84-4753-e61c-6fe31b7f9101.htm" />
+        <HelpTOCNode Title="names Field" Url="html/513e84c5-6d18-0b09-0334-e669dcaf1493.htm" />
+        <HelpTOCNode Title="PROCESSED Field" Url="html/03eea0e3-5cb4-84b4-0c57-7beb3817ed82.htm" />
+        <HelpTOCNode Title="PROCESSING Field" Url="html/3a7d20c2-feca-bf73-338c-5e0d83c5548a.htm" />
+        <HelpTOCNode Title="QUOTING Field" Url="html/f9c720b3-816a-49f9-ed7c-c535874e1fb4.htm" />
+        <HelpTOCNode Title="READY Field" Url="html/fafc304a-9feb-3a69-df29-3c3f276546df.htm" />
+        <HelpTOCNode Title="RESERVED Field" Url="html/1993b58d-1488-035c-fc6e-58ee5fcb6707.htm" />
+        <HelpTOCNode Title="WAITING Field" Url="html/4d366476-0bd1-5828-39f5-71d7b7f9f579.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="308f7e50-bd48-4b07-b10e-75cc6d980651" Title="ItemStatusEnum Properties" Url="html/dfffded2-b134-c70f-6635-da3be220304b.htm">
+        <HelpTOCNode Title="name Property " Url="html/9b073817-d30a-7262-880a-5afcd7d23f84.htm" />
+        <HelpTOCNode Title="value Property " Url="html/e85982ce-815b-6694-4f3b-00d0a4f38dcb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="371b61d6-853e-4886-aa76-e79d51e0e3f1" Title="LanguageDirection Class" Url="html/fd9827db-da7f-cc4d-e15a-57b65803e6ab.htm">
+      <HelpTOCNode Title="LanguageDirection Constructor " Url="html/39ded852-9cae-a114-686f-332ff3020544.htm" />
+      <HelpTOCNode Id="f858fe75-b8c3-42da-90d6-8337f6d42466" Title="LanguageDirection Properties" Url="html/1d0c5924-25a0-70f5-a553-5a35af9e6a6c.htm">
+        <HelpTOCNode Title="sourceLanguage Property " Url="html/88763f53-57be-9a34-8969-abdf07fe473a.htm" />
+        <HelpTOCNode Title="targetLanguage Property " Url="html/f3520494-9a2f-1d28-c54b-f4661862499f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f1240a8f-1f56-45c2-a041-7be3772b15ea" Title="LanguagePhaseInfo Class" Url="html/bdac8ea0-6177-b66c-9f34-9463bb54d194.htm">
+      <HelpTOCNode Title="LanguagePhaseInfo Constructor " Url="html/744f36c7-5769-bac8-8487-951c9ccc8541.htm" />
+      <HelpTOCNode Id="ed4ab77f-5456-4ce8-8a8c-bb51fadf97e5" Title="LanguagePhaseInfo Fields" Url="html/f53b1c33-fbc1-f9f3-18a7-67cad5898914.htm">
+        <HelpTOCNode Title="phaseStartDate Field" Url="html/6782291e-b3ff-bc44-8156-37d5a129ba83.htm" />
+        <HelpTOCNode Title="sourceFileList Field" Url="html/af9389c0-f9d8-a736-6702-9ac84f654d1a.htm" />
+        <HelpTOCNode Title="tmStatistics Field" Url="html/07c0628c-f8e0-372a-de48-839d7b66ea5e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b38aa6c6-b2c7-4961-8d97-72695b499f30" Title="Project Class" Url="html/0a372493-ce11-8b4c-653c-f913f889f894.htm">
+      <HelpTOCNode Title="Project Constructor " Url="html/7705b431-d4da-808e-746c-55128c0bea66.htm" />
+      <HelpTOCNode Id="3abf5d43-f651-422e-ad54-3ff0a72b05fe" Title="Project Properties" Url="html/d5d27896-d1c5-7a1f-5031-2312a4c82314.htm">
+        <HelpTOCNode Title="customAttributes Property " Url="html/0571e424-96bb-becb-8137-e1e494edd01e.htm" />
+        <HelpTOCNode Title="fileFormats Property " Url="html/78aa695a-02bb-8799-3f38-67a605d83d9a.htm" />
+        <HelpTOCNode Title="languageDirections Property " Url="html/0183ed71-7121-b40a-0d84-0418f6bed6b5.htm" />
+        <HelpTOCNode Title="name Property " Url="html/1e0d6485-8b68-92b1-ef83-2fd2c9be7bc8.htm" />
+        <HelpTOCNode Title="shortcode Property " Url="html/55098b83-9bb3-e6db-014a-65f86690bf48.htm" />
+        <HelpTOCNode Title="submitters Property " Url="html/d0f02511-104a-463f-aab2-682320b959cb.htm" />
+        <HelpTOCNode Title="ticket Property " Url="html/ccb25fd4-d613-ac4a-4fb5-fc100288dfff.htm" />
+        <HelpTOCNode Title="workflows Property " Url="html/0d908b4f-fb8d-20cf-e905-c5a013a8fe65.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="97c8e688-a2d3-4524-8975-b594103a10ec" Title="ReferenceDocument Class" Url="html/bd647a7a-fe93-63b2-9d96-c67b7787aa42.htm">
+      <HelpTOCNode Title="ReferenceDocument Constructor " Url="html/82a33a09-d207-154a-2358-c046b4327393.htm" />
+      <HelpTOCNode Id="7449604d-32bb-4b89-92a6-38b9bbea74da" Title="ReferenceDocument Methods" Url="html/0c686a85-6c63-37f3-e353-b7679f77463e.htm">
+        <HelpTOCNode Title="getDataAsString Method " Url="html/c5bf7fc2-75ba-2683-57b6-12dba6122df8.htm" />
+        <HelpTOCNode Title="getResourceInfo Method " Url="html/3fe87019-57c5-c88a-faa6-ac6f1ffb46d8.htm" />
+        <HelpTOCNode Title="setDataFromMemoryStream Method " Url="html/bf902f1e-0f20-6042-1412-e12a088a0b48.htm" />
+        <HelpTOCNode Title="setDataFromString Method " Url="html/d623be63-83cf-8fab-0c7c-49a2a6a8675f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f7eba5b5-5f9e-48ce-b14d-9c55d1650465" Title="ReferenceDocument Properties" Url="html/8a9daf5d-2e7c-9598-b278-95ca6615b4e8.htm">
+        <HelpTOCNode Title="data Property " Url="html/fe1d8a3f-fecd-b1c2-0c4b-723892aa2b6f.htm" />
+        <HelpTOCNode Title="name Property " Url="html/42af22d5-4a30-5999-2bed-cc371f263a98.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5d394e11-4733-40cf-993a-925c48daed1d" Title="Submission Class" Url="html/21c36bc0-9685-6c29-5412-5f137050ba42.htm">
+      <HelpTOCNode Id="ca352182-16f6-48ea-a653-17d5f89cf8ac" Title="Submission Constructor " Url="html/fabc272c-cecd-a75d-8937-df3f6a36f5b8.htm">
+        <HelpTOCNode Title="Submission Constructor " Url="html/c10ee446-77f8-059e-03d4-44556ed1daa4.htm" />
+        <HelpTOCNode Title="Submission Constructor (Submission)" Url="html/07f070de-8530-1454-5cc6-040a62a354c6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="65bda8b0-b0fe-4bb6-b0a0-605343df0136" Title="Submission Methods" Url="html/dc386c0e-dde4-89bc-681f-62862241fb67.htm">
+        <HelpTOCNode Title="addTicket Method " Url="html/fc0fc330-d2ad-e346-23cb-d402d3ef3969.htm" />
+        <HelpTOCNode Title="setTickets Method " Url="html/1410aff1-77cd-4c1a-359a-91e43bb3ed90.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="abaabca0-9185-478e-a0bc-d126896422e0" Title="Submission Properties" Url="html/a8c5d8d0-2b56-4de2-b3d5-e1a1af067fad.htm">
+        <HelpTOCNode Title="customAttributes Property " Url="html/ebdd00e0-b1ac-d928-cd26-8aa604753486.htm" />
+        <HelpTOCNode Title="dueDate Property " Url="html/8241fbe7-d5d2-4ef9-755c-2cb2e6e793bd.htm" />
+        <HelpTOCNode Title="instructions Property " Url="html/6a0c8828-9faa-f72e-0e5d-d4eb7741ecc6.htm" />
+        <HelpTOCNode Title="isUrgent Property " Url="html/aa4b8dfb-c796-a876-6a03-acc8060d7abe.htm" />
+        <HelpTOCNode Title="metadata Property " Url="html/0491458b-746d-dca7-5bce-52258528e7b6.htm" />
+        <HelpTOCNode Title="name Property " Url="html/4da59a0f-48b2-7467-f0db-1f9c51c2bf81.htm" />
+        <HelpTOCNode Title="owner Property " Url="html/0a649045-443c-e74f-4443-8b31bca0a419.htm" />
+        <HelpTOCNode Title="paClientTicket Property " Url="html/1000b79c-eca3-b368-6b71-b16d279da425.htm" />
+        <HelpTOCNode Title="pmNotes Property " Url="html/c6203a3b-4714-bfeb-ca2a-2304df0f2f66.htm" />
+        <HelpTOCNode Title="project Property " Url="html/b0b4856a-9f2f-8aab-2e93-538c3968ee73.htm" />
+        <HelpTOCNode Title="submitter Property " Url="html/36022d35-33eb-0377-74a4-3df3753df38b.htm" />
+        <HelpTOCNode Title="tickets Property " Url="html/8f8c74a3-bf0b-e039-bc00-6f509968a74c.htm" />
+        <HelpTOCNode Title="workflow Property " Url="html/a3e3f681-0965-6275-d0a1-7a40563226f0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf227103-b3ef-4e0a-b1d8-4ab0c90a9819" Title="Target Class" Url="html/ac5a4beb-0508-69cb-ad50-829fe0a702d6.htm">
+      <HelpTOCNode Title="Target Constructor " Url="html/bfedd09c-106e-3e3a-6aa8-24fad6ae981a.htm" />
+      <HelpTOCNode Id="c262cf5c-4e31-4493-b3af-c5b412d58c19" Title="Target Methods" Url="html/9e8a3d82-c556-5a48-5d2e-05ce53dfd9eb.htm">
+        <HelpTOCNode Title="getData Method " Url="html/5af4d3de-6c15-a16e-068c-11e052dedc61.htm" />
+        <HelpTOCNode Title="sendDownloadConfirmation Method " Url="html/d7f64738-af47-6a30-84c8-a5f31395c948.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d771effe-f71c-4f81-823f-04229e6ecb0a" Title="Target Properties" Url="html/7595cd97-ed7f-a47d-4877-00c93ba069c9.htm">
+        <HelpTOCNode Title="clientIdentifier Property " Url="html/51168d0b-b345-96cc-e179-f0cb590ad740.htm" />
+        <HelpTOCNode Title="documentName Property " Url="html/df8b9892-a67f-5782-c568-32e272874638.htm" />
+        <HelpTOCNode Title="documentTicket Property " Url="html/5d5b15c7-ee5f-dc6c-2329-774020fd9095.htm" />
+        <HelpTOCNode Title="metadata Property " Url="html/4970addb-f69d-746f-c89d-3cb8ba40d5e8.htm" />
+        <HelpTOCNode Title="sourceLocale Property " Url="html/a11ba7d6-20a7-d3f7-acd2-15f0f2ad4570.htm" />
+        <HelpTOCNode Title="submissionName Property " Url="html/98573ac6-1882-a72b-0728-fbfc30223d35.htm" />
+        <HelpTOCNode Title="targetLocale Property " Url="html/d5b4838f-cf37-7ffd-c728-301fcf62c076.htm" />
+        <HelpTOCNode Title="ticket Property " Url="html/7ad098c3-4600-09cd-8b5a-02ad30a10a51.htm" />
+        <HelpTOCNode Title="wordCount Property " Url="html/bae03e2a-16c8-4222-18b0-1b8fa741c587.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f923fb1f-3a5f-47de-9666-f783d939d9e6" Title="WordCount Class" Url="html/6170c28b-c56d-818d-f0a1-a4b224ff4204.htm">
+      <HelpTOCNode Title="WordCount Constructor " Url="html/acc2f28a-fc97-f365-2818-a7abecc9e695.htm" />
+      <HelpTOCNode Id="3461c754-4286-4da9-a741-3e97f730469e" Title="WordCount Properties" Url="html/b17fdfcb-fd8a-be37-a46b-9c95c1ef68c2.htm">
+        <HelpTOCNode Title="exact_100 Property " Url="html/a0b9a658-3b76-3dc2-f3bd-6b76f8969ef1.htm" />
+        <HelpTOCNode Title="fuzzy Property " Url="html/59241b46-a490-957c-bb80-e4ef324ad9b4.htm" />
+        <HelpTOCNode Title="golden Property " Url="html/1edf912d-4e02-5736-adc0-aecfb2ed9e3e.htm" />
+        <HelpTOCNode Title="nomatch Property " Url="html/3be581b8-2ea4-82ef-8c6f-00cd8cb86eb0.htm" />
+        <HelpTOCNode Title="repetitions Property " Url="html/4d307f09-51d6-8d19-73ec-8c8f2ab73c4f.htm" />
+        <HelpTOCNode Title="total Property " Url="html/7850bdd0-22a1-396e-efc9-825deaa75add.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="14b346eb-8f5a-40ee-a128-0c09ca93edb4" Title="Workflow Class" Url="html/7ad34c1c-f172-0ea1-6599-902803892360.htm">
+      <HelpTOCNode Id="b039b25e-9480-47e2-8caf-92f6832a3d51" Title="Workflow Constructor " Url="html/13b4e9ef-266e-9555-4573-6d2be1ec065d.htm">
+        <HelpTOCNode Title="Workflow Constructor (WorkflowDefinition)" Url="html/7c189cf1-e635-c04f-231d-04e184b511fe.htm" />
+        <HelpTOCNode Title="Workflow Constructor (WorkflowDefinition)" Url="html/2ab4ca86-23e5-ab98-16a1-b94db928c5a1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="efcf0684-4740-41d5-86bb-75ac3c02d93f" Title="Workflow Properties" Url="html/1742761e-a143-44c1-46aa-2d146af9ebfa.htm">
+        <HelpTOCNode Title="name Property " Url="html/a31098a6-46ca-1f4f-0842-93ebbd7d65f0.htm" />
+        <HelpTOCNode Title="ticket Property " Url="html/645902ac-bea3-7124-4f43-3c655bb6c788.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
