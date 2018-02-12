@@ -7,12 +7,17 @@
     <HelpKINode Title="about Batch class" Url="html/f2ed30f8-fee0-a989-358d-2d7862244ce3.htm" />
     <HelpKINode Title="constructor" Url="html/05208c88-3816-a120-3479-aa003b549b5c.htm" />
     <HelpKINode Title="fields" Url="html/f3bcc563-0933-9d7b-4e14-ef1553497f27.htm" />
+    <HelpKINode Title="methods" Url="html/aa37a1cf-75cb-f00a-a82d-e5145ea80bbb.htm" />
     <HelpKINode Title="properties" Url="html/1d4bbaa4-4e15-139e-e428-41cc82351a6f.htm" />
   </HelpKINode>
   <HelpKINode Title="Batch.Batch constructor" Url="html/05208c88-3816-a120-3479-aa003b549b5c.htm" />
   <HelpKINode Title="Batch.name property" Url="html/a08dcfee-942d-c992-6298-1f71ea4cf673.htm" />
   <HelpKINode Title="Batch.targetLanguages field" Url="html/b426b640-6cc8-dcca-d54f-f8f90269f2e0.htm" />
   <HelpKINode Title="Batch.workflow field" Url="html/807532be-127b-9a72-3f40-bfa1e0f8b799.htm" />
+  <HelpKINode Title="BINDING field">
+    <HelpKINode Title="Constants.BINDING Field" Url="html/1e4d1fdf-ac98-3fd3-718c-8beda2823874.htm" />
+    <HelpKINode Title="SecureConstants.BINDING Field" Url="html/58259f0a-2e69-b48d-40a7-fef7dd2053c6.htm" />
+  </HelpKINode>
   <HelpKINode Title="cancelDocument method" Url="html/6b823dd1-f41f-854a-e3c6-bff5669ac9a0.htm" />
   <HelpKINode Title="CANCELLED field" Url="html/0ceb7dc4-ec5e-4506-1012-4b9ded38e8f8.htm" />
   <HelpKINode Title="cancelSubmission method" Url="html/c7118f54-1c17-f27d-3332-7ea1088df014.htm" />
@@ -21,11 +26,19 @@
     <HelpKINode Title="Target.clientIdentifier Property " Url="html/51168d0b-b345-96cc-e179-f0cb590ad740.htm" />
   </HelpKINode>
   <HelpKINode Title="COMPLETED field" Url="html/f44d3fab-0de9-da7f-4930-0d492f155aca.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="Constants Class" Url="html/8de9d10d-bd0f-0fcd-afac-3f5307732e7c.htm" />
+    <HelpKINode Title="about Constants class" Url="html/8de9d10d-bd0f-0fcd-afac-3f5307732e7c.htm" />
+    <HelpKINode Title="fields" Url="html/b019f00f-fa9b-5d83-74d3-c691c049d323.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.BINDING field" Url="html/1e4d1fdf-ac98-3fd3-718c-8beda2823874.htm" />
+  <HelpKINode Title="CreateZip method" Url="html/0fd2dfb6-9195-e46f-0057-4d6890d30c81.htm" />
   <HelpKINode Title="CREATING field" Url="html/411f40ff-5cdb-ea97-4d28-a07ac3901b2d.htm" />
   <HelpKINode Title="CustomAttribute class">
     <HelpKINode Title="CustomAttribute Class" Url="html/b8295f49-089d-b167-ae12-30f4ecfa91c2.htm" />
     <HelpKINode Title="about CustomAttribute class" Url="html/b8295f49-089d-b167-ae12-30f4ecfa91c2.htm" />
     <HelpKINode Title="constructor" Url="html/01563a66-7654-e0d9-6c6a-70ce79d2a0b4.htm" />
+    <HelpKINode Title="methods" Url="html/80c3fdf4-708a-9305-c56c-9d4456594b95.htm" />
     <HelpKINode Title="properties" Url="html/239641fa-8795-eb06-cf95-52b94f1d105e.htm" />
   </HelpKINode>
   <HelpKINode Title="CustomAttribute.CustomAttribute constructor" Url="html/01563a66-7654-e0d9-6c6a-70ce79d2a0b4.htm" />
@@ -59,14 +72,20 @@
   <HelpKINode Title="Document.targetWorkflowNames property" Url="html/9fd9c121-12df-3f1d-663a-1ba3bf7c3688.htm" />
   <HelpKINode Title="documentName property" Url="html/df8b9892-a67f-5782-c568-32e272874638.htm" />
   <HelpKINode Title="documentTicket property" Url="html/5d5b15c7-ee5f-dc6c-2329-774020fd9095.htm" />
+  <HelpKINode Title="downloadCollaterals method" Url="html/3add9e19-c094-68c1-5594-6b17aaade08b.htm" />
   <HelpKINode Title="downloadCompletedTarget method" Url="html/dbc4a92c-3dd1-e88c-217f-e1e092f9aa91.htm" />
   <HelpKINode Title="DOWNLOADED field" Url="html/2624b4d4-2bf7-1526-6274-ad80ec89f807.htm" />
+  <HelpKINode Title="downloadPreliminaryTargets method" Url="html/dcd6b66a-48ee-dae7-f337-fb8e98da5633.htm" />
+  <HelpKINode Title="downloadSubmissionCollateral method" Url="html/91719879-b297-1a6c-5280-4b2276e19ea9.htm" />
+  <HelpKINode Title="downloadTranslationKit method" Url="html/8187a617-c6a5-5b1f-bda7-b40540f636df.htm" />
   <HelpKINode Title="dueDate property" Url="html/8241fbe7-d5d2-4ef9-755c-2cb2e6e793bd.htm" />
   <HelpKINode Title="encoding property" Url="html/a2a40825-7e5b-5ae0-6784-9f88d5401e03.htm" />
   <HelpKINode Title="exact_100 property" Url="html/a0b9a658-3b76-3dc2-f3bd-6b76f8969ef1.htm" />
   <HelpKINode Title="FAILED field" Url="html/811bf698-96e6-b28d-1790-930b6518d8e9.htm" />
   <HelpKINode Title="fileformat property" Url="html/401e275b-952b-d47b-8574-ed3def99acf3.htm" />
   <HelpKINode Title="fileFormats property" Url="html/78aa695a-02bb-8799-3f38-67a605d83d9a.htm" />
+  <HelpKINode Title="findAvailableWorkflowInfosForClaim method" Url="html/44e185ff-13cf-4541-f687-19db72015f72.htm" />
+  <HelpKINode Title="findAvailableWorkflowInfosForDownload method" Url="html/da080725-4334-d896-f528-b970ea394f63.htm" />
   <HelpKINode Title="fuzzy property" Url="html/59241b46-a490-957c-bb80-e4ef324ad9b4.htm" />
   <HelpKINode Title="getAvailableLanguageDirections method" Url="html/e5c2746a-64d5-3343-1a27-b866a15b6f14.htm" />
   <HelpKINode Title="getAvailableTargetLocales method" Url="html/1bfc5b48-075c-e68c-6c92-75c248987c02.htm" />
@@ -104,7 +123,13 @@
   </HelpKINode>
   <HelpKINode Title="GLExchange.cancelDocument method" Url="html/6b823dd1-f41f-854a-e3c6-bff5669ac9a0.htm" />
   <HelpKINode Title="GLExchange.cancelSubmission method" Url="html/c7118f54-1c17-f27d-3332-7ea1088df014.htm" />
+  <HelpKINode Title="GLExchange.downloadCollaterals method" Url="html/3add9e19-c094-68c1-5594-6b17aaade08b.htm" />
   <HelpKINode Title="GLExchange.downloadCompletedTarget method" Url="html/dbc4a92c-3dd1-e88c-217f-e1e092f9aa91.htm" />
+  <HelpKINode Title="GLExchange.downloadPreliminaryTargets method" Url="html/dcd6b66a-48ee-dae7-f337-fb8e98da5633.htm" />
+  <HelpKINode Title="GLExchange.downloadSubmissionCollateral method" Url="html/91719879-b297-1a6c-5280-4b2276e19ea9.htm" />
+  <HelpKINode Title="GLExchange.downloadTranslationKit method" Url="html/8187a617-c6a5-5b1f-bda7-b40540f636df.htm" />
+  <HelpKINode Title="GLExchange.findAvailableWorkflowInfosForClaim method" Url="html/44e185ff-13cf-4541-f687-19db72015f72.htm" />
+  <HelpKINode Title="GLExchange.findAvailableWorkflowInfosForDownload method" Url="html/da080725-4334-d896-f528-b970ea394f63.htm" />
   <HelpKINode Title="GLExchange.getAvailableLanguageDirections method" Url="html/e5c2746a-64d5-3343-1a27-b866a15b6f14.htm" />
   <HelpKINode Title="GLExchange.getAvailableTargetLocales method" Url="html/1bfc5b48-075c-e68c-6c92-75c248987c02.htm" />
   <HelpKINode Title="GLExchange.getCancelledTargets method" Url="html/e6f4a888-7977-e05a-75d2-4a3a6f56505b.htm" />
@@ -152,6 +177,20 @@
   <HelpKINode Title="GlobalLink.Connect.Model.Target class" Url="html/ac5a4beb-0508-69cb-ad50-829fe0a702d6.htm" />
   <HelpKINode Title="GlobalLink.Connect.Model.WordCount class" Url="html/6170c28b-c56d-818d-f0a1-a4b224ff4204.htm" />
   <HelpKINode Title="GlobalLink.Connect.Model.Workflow class" Url="html/7ad34c1c-f172-0ea1-6599-902803892360.htm" />
+  <HelpKINode Title="GlobalLink.Connect.Proxy namespace" Url="html/129beeac-740d-6478-39bd-871f1d16dbbb.htm" />
+  <HelpKINode Title="GlobalLink.Connect.Proxy.Constants class" Url="html/8de9d10d-bd0f-0fcd-afac-3f5307732e7c.htm" />
+  <HelpKINode Title="GlobalLink.Connect.Proxy.SecureConstants class" Url="html/bea34941-9013-5554-b515-c5e13ec91a32.htm" />
+  <HelpKINode Title="GlobalLink.Connect.Pss namespace" Url="html/129b0e2c-4ed6-ae85-50a7-adbf7ff8730f.htm" />
+  <HelpKINode Title="GlobalLink.Connect.Pss.GLPss class" Url="html/9f31df1b-caab-5e9d-1e5b-b798f64a13b6.htm" />
+  <HelpKINode Title="GLPss class">
+    <HelpKINode Title="GLPss Class" Url="html/9f31df1b-caab-5e9d-1e5b-b798f64a13b6.htm" />
+    <HelpKINode Title="about GLPss class" Url="html/9f31df1b-caab-5e9d-1e5b-b798f64a13b6.htm" />
+    <HelpKINode Title="constructor" Url="html/6141e302-55e3-8887-3ccd-a43422c1f77f.htm" />
+    <HelpKINode Title="methods" Url="html/67c9acbe-45ac-e036-a8da-cd39a4c5d4f8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GLPss.CreateZip method" Url="html/0fd2dfb6-9195-e46f-0057-4d6890d30c81.htm" />
+  <HelpKINode Title="GLPss.GLPss constructor" Url="html/6141e302-55e3-8887-3ccd-a43422c1f77f.htm" />
+  <HelpKINode Title="GLPss.UploadStaticPreview method" Url="html/018864db-198d-7d04-13f2-c1dfa4cd9a5a.htm" />
   <HelpKINode Title="golden property" Url="html/1edf912d-4e02-5736-adc0-aecfb2ed9e3e.htm" />
   <HelpKINode Title="initSubmission method" Url="html/45324369-2945-8c4f-b93c-2d8db9a5ee03.htm" />
   <HelpKINode Title="instructions property">
@@ -166,6 +205,7 @@
     <HelpKINode Title="about ItemStatusEnum class" Url="html/9683bde5-24eb-690f-a52b-44c2fa2c3ae4.htm" />
     <HelpKINode Title="constructor" Url="html/ea24e8ee-a329-5ac5-9200-d3828818a70c.htm" />
     <HelpKINode Title="fields" Url="html/3e181168-d878-4f90-122e-54c202e20b0c.htm" />
+    <HelpKINode Title="methods" Url="html/8063b77d-39e3-6d5a-4b3b-c764167970d1.htm" />
     <HelpKINode Title="properties" Url="html/dfffded2-b134-c70f-6635-da3be220304b.htm" />
   </HelpKINode>
   <HelpKINode Title="ItemStatusEnum.ARCHIVED field" Url="html/a53434e9-3959-ebff-7dbf-353e1e608eea.htm" />
@@ -190,6 +230,7 @@
     <HelpKINode Title="LanguageDirection Class" Url="html/fd9827db-da7f-cc4d-e15a-57b65803e6ab.htm" />
     <HelpKINode Title="about LanguageDirection class" Url="html/fd9827db-da7f-cc4d-e15a-57b65803e6ab.htm" />
     <HelpKINode Title="constructor" Url="html/39ded852-9cae-a114-686f-332ff3020544.htm" />
+    <HelpKINode Title="methods" Url="html/f7e440b3-0edf-77e0-5f4d-0e748a584c19.htm" />
     <HelpKINode Title="properties" Url="html/1d0c5924-25a0-70f5-a553-5a35af9e6a6c.htm" />
   </HelpKINode>
   <HelpKINode Title="LanguageDirection.LanguageDirection constructor" Url="html/39ded852-9cae-a114-686f-332ff3020544.htm" />
@@ -201,6 +242,7 @@
     <HelpKINode Title="about LanguagePhaseInfo class" Url="html/bdac8ea0-6177-b66c-9f34-9463bb54d194.htm" />
     <HelpKINode Title="constructor" Url="html/744f36c7-5769-bac8-8487-951c9ccc8541.htm" />
     <HelpKINode Title="fields" Url="html/f53b1c33-fbc1-f9f3-18a7-67cad5898914.htm" />
+    <HelpKINode Title="methods" Url="html/e0500625-672e-50d7-1ddb-95483685a1f0.htm" />
   </HelpKINode>
   <HelpKINode Title="LanguagePhaseInfo.LanguagePhaseInfo constructor" Url="html/744f36c7-5769-bac8-8487-951c9ccc8541.htm" />
   <HelpKINode Title="LanguagePhaseInfo.phaseStartDate field" Url="html/6782291e-b3ff-bc44-8156-37d5a129ba83.htm" />
@@ -234,6 +276,7 @@
     <HelpKINode Title="Project Class" Url="html/0a372493-ce11-8b4c-653c-f913f889f894.htm" />
     <HelpKINode Title="about Project class" Url="html/0a372493-ce11-8b4c-653c-f913f889f894.htm" />
     <HelpKINode Title="constructor" Url="html/7705b431-d4da-808e-746c-55128c0bea66.htm" />
+    <HelpKINode Title="methods" Url="html/c0f70a5e-5b3a-ed74-c386-cf7e0a019b2f.htm" />
     <HelpKINode Title="properties" Url="html/d5d27896-d1c5-7a1f-5031-2312a4c82314.htm" />
   </HelpKINode>
   <HelpKINode Title="project property" Url="html/b0b4856a-9f2f-8aab-2e93-538c3968ee73.htm" />
@@ -250,6 +293,7 @@
     <HelpKINode Title="ProjectDirectorConfig Class" Url="html/e8d23f1d-b779-d43c-72ce-e92d305c8c2d.htm" />
     <HelpKINode Title="about ProjectDirectorConfig class" Url="html/e8d23f1d-b779-d43c-72ce-e92d305c8c2d.htm" />
     <HelpKINode Title="constructor" Url="html/da98ad74-4e0f-9db8-5502-b2e1ba44dc5b.htm" />
+    <HelpKINode Title="methods" Url="html/a9b56cb5-92a1-6898-ab1f-ae1c393892ab.htm" />
     <HelpKINode Title="properties" Url="html/d4b6d6e5-bd5b-aa4f-15ee-5d43c471ad38.htm" />
   </HelpKINode>
   <HelpKINode Title="ProjectDirectorConfig.password property" Url="html/5720d3dd-a18a-ccf5-8677-ccc24f19863b.htm" />
@@ -264,6 +308,7 @@
     <HelpKINode Title="ProxyConfig Class" Url="html/a139fdbc-2cf8-0042-79da-8a6adbc68bbc.htm" />
     <HelpKINode Title="about ProxyConfig class" Url="html/a139fdbc-2cf8-0042-79da-8a6adbc68bbc.htm" />
     <HelpKINode Title="constructor" Url="html/5e51f831-13bc-98e5-6bac-af093920d2fe.htm" />
+    <HelpKINode Title="methods" Url="html/bd453a8b-c7e8-9ed0-04b6-029259541e73.htm" />
     <HelpKINode Title="properties" Url="html/53322b6a-bddd-66d0-c8e8-d886104eaf86.htm" />
   </HelpKINode>
   <HelpKINode Title="ProxyConfig.ProxyConfig constructor" Url="html/5e51f831-13bc-98e5-6bac-af093920d2fe.htm" />
@@ -293,6 +338,12 @@
   <HelpKINode Title="ReferenceDocument.setDataFromString method" Url="html/d623be63-83cf-8fab-0c7c-49a2a6a8675f.htm" />
   <HelpKINode Title="repetitions property" Url="html/4d307f09-51d6-8d19-73ec-8c8f2ab73c4f.htm" />
   <HelpKINode Title="RESERVED field" Url="html/1993b58d-1488-035c-fc6e-58ee5fcb6707.htm" />
+  <HelpKINode Title="SecureConstants class">
+    <HelpKINode Title="SecureConstants Class" Url="html/bea34941-9013-5554-b515-c5e13ec91a32.htm" />
+    <HelpKINode Title="about SecureConstants class" Url="html/bea34941-9013-5554-b515-c5e13ec91a32.htm" />
+    <HelpKINode Title="fields" Url="html/981b167d-012b-b997-bbfc-828491302e30.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SecureConstants.BINDING field" Url="html/58259f0a-2e69-b48d-40a7-fef7dd2053c6.htm" />
   <HelpKINode Title="sendDownloadConfirmation method">
     <HelpKINode Title="GLExchange.sendDownloadConfirmation Method " Url="html/62801d2f-e66f-4fcc-a548-221369a2e9ec.htm" />
     <HelpKINode Title="Target.sendDownloadConfirmation Method " Url="html/d7f64738-af47-6a30-84c8-a5f31395c948.htm" />
@@ -370,6 +421,7 @@
   <HelpKINode Title="total property" Url="html/7850bdd0-22a1-396e-efc9-825deaa75add.htm" />
   <HelpKINode Title="type property" Url="html/903450c8-ea69-23b5-8aeb-5cf4cfa8920e.htm" />
   <HelpKINode Title="uploadReference method" Url="html/ce9b7d1a-9162-1b80-1cc4-378113c5c6bc.htm" />
+  <HelpKINode Title="UploadStaticPreview method" Url="html/018864db-198d-7d04-13f2-c1dfa4cd9a5a.htm" />
   <HelpKINode Title="uploadTranslatable method" Url="html/fa5ad100-b12d-629a-2266-c43bd6530d33.htm" />
   <HelpKINode Title="url property" Url="html/bc88f29e-06ce-1056-6b1b-79f3ac43242c.htm" />
   <HelpKINode Title="userAgent property" Url="html/c6aac73b-bdfe-24f2-365d-e98d56793bf2.htm" />
@@ -381,6 +433,7 @@
     <HelpKINode Title="WordCount Class" Url="html/6170c28b-c56d-818d-f0a1-a4b224ff4204.htm" />
     <HelpKINode Title="about WordCount class" Url="html/6170c28b-c56d-818d-f0a1-a4b224ff4204.htm" />
     <HelpKINode Title="constructor" Url="html/acc2f28a-fc97-f365-2818-a7abecc9e695.htm" />
+    <HelpKINode Title="methods" Url="html/3a99ab25-b8f7-eb8b-c924-dbb8c5ebeb7b.htm" />
     <HelpKINode Title="properties" Url="html/b17fdfcb-fd8a-be37-a46b-9c95c1ef68c2.htm" />
   </HelpKINode>
   <HelpKINode Title="wordCount property" Url="html/bae03e2a-16c8-4222-18b0-1b8fa741c587.htm" />
@@ -395,6 +448,7 @@
     <HelpKINode Title="Workflow Class" Url="html/7ad34c1c-f172-0ea1-6599-902803892360.htm" />
     <HelpKINode Title="about Workflow class" Url="html/7ad34c1c-f172-0ea1-6599-902803892360.htm" />
     <HelpKINode Title="constructor" Url="html/13b4e9ef-266e-9555-4573-6d2be1ec065d.htm" />
+    <HelpKINode Title="methods" Url="html/52da2050-ea64-1f11-fcd2-1e3af39ddb2f.htm" />
     <HelpKINode Title="properties" Url="html/1742761e-a143-44c1-46aa-2d146af9ebfa.htm" />
   </HelpKINode>
   <HelpKINode Title="workflow field" Url="html/807532be-127b-9a72-3f40-bfa1e0f8b799.htm" />
